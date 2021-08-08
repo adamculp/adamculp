@@ -1,4 +1,4 @@
-[<img src="https://i.ytimg.com/vi/Q5G_RUOqCJc/mqdefault.jpg" align="right>](https://youtu.be/Q5G_RUOqCJc)
+<img src="https://i.ytimg.com/vi/Q5G_RUOqCJc/mqdefault.jpg" align="right>
 
 ### Hello there 👋
 
