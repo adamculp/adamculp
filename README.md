@@ -1,4 +1,4 @@
-<img src="https://github.com/adamculp/adamculp/blob/master/mqdefault.jpg" align="right>
+<img src="https://github.com/adamculp/adamculp/blob/master/mqdefault.jpg" align="right">
 
 ### Hello there 👋
 
