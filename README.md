@@ -10,8 +10,11 @@ If you'd like me to speak for your usergroup or event, please feel free to reach
 
 If you would like to support my open source work, or any of my contributions, consider [becoming a Beachcasts sponsor](https://github.com/sponsors/Beachcasts).
 
+## Latest YouTube Videos
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
 
-# Blog posts
+# Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
