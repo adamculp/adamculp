@@ -12,7 +12,7 @@ If you would like to support my open source work, or any of my contributions, co
 
 ## 🎞️ Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [How to find a developer job and programming job search](https://www.youtube.com/watch?v=zls-4vbjFxk)
+- [Getting a developer job and searching for programming jobs](https://www.youtube.com/watch?v=zls-4vbjFxk)
 - [Creating new AWS Lambda PHP Mezzio application with Bref - Beachcasts LIVE!](https://www.youtube.com/watch?v=Cay0NAeaGgA)
 - [Top programming languages to learn in 2020](https://www.youtube.com/watch?v=pF-Y50wYpMg)
 - [How to parse markdown in PHP to html with CommonMark](https://www.youtube.com/watch?v=QZ2NTm4V0NM)
