@@ -12,7 +12,7 @@ If you would like to support my open source work, or any of my contributions, co
 
 ## 🎞️ Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Developing on Windows With WSL2 and a LAMP stack on wsl 2](https://www.youtube.com/watch?v=_H1iKXksjF0)
+- [Developing on Windows with WSL2 and LAMP stack using Laravel](https://www.youtube.com/watch?v=_H1iKXksjF0)
 - [WSL 2 With Docker Getting Started and Docker Desktop Installation](https://www.youtube.com/watch?v=h0Lwtcje-Jo)
 - [Getting Started with WSL 2 and Ubuntu on Windows 10](https://www.youtube.com/watch?v=X3bPWl9Z2D0)
 - [Getting a developer job and searching for programming jobs](https://www.youtube.com/watch?v=zls-4vbjFxk)
