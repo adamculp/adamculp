@@ -12,7 +12,7 @@ If you would like to support my open source work, or any of my contributions, co
 
 ## 🎞️ Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Getting Started with Laravel Sail for Docker on WSL 2](https://www.youtube.com/watch?v=Zxi157MpoRE)
+- [Getting Started using Laravel Sail for Docker on WSL 2](https://www.youtube.com/watch?v=Zxi157MpoRE)
 - [Developing on Windows with WSL2 (Subsystem for Linux) and PHP](https://www.youtube.com/watch?v=_H1iKXksjF0)
 - [WSL 2 With Docker Getting Started and Docker Desktop Installation](https://www.youtube.com/watch?v=h0Lwtcje-Jo)
 - [Getting Started with WSL 2 and Ubuntu on Windows 10](https://www.youtube.com/watch?v=X3bPWl9Z2D0)
