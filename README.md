@@ -12,8 +12,8 @@ If you would like to support my open source work, or any of my contributions, co
 
 ## 🎞️ Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [True Cost of Programming Errors and Buggy Software](https://www.youtube.com/watch?v=UHoThUyfA70)
-- [Define Technical Debt and Contributing Factors for Software Bugs](https://www.youtube.com/watch?v=ZJ5a4mxBbWw)
+- [The True Cost of Programming Errors and Buggy Software](https://www.youtube.com/watch?v=UHoThUyfA70)
+- [Define Technical Debt and Contributing Factors for Software Errors](https://www.youtube.com/watch?v=ZJ5a4mxBbWw)
 - [Getting Started using Laravel Sail for Docker on WSL 2](https://www.youtube.com/watch?v=Zxi157MpoRE)
 - [Developing on Windows with WSL2 (Subsystem for Linux) and PHP](https://www.youtube.com/watch?v=_H1iKXksjF0)
 - [WSL 2 With Docker Getting Started and Docker Desktop Installation](https://www.youtube.com/watch?v=h0Lwtcje-Jo)
