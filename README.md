@@ -12,11 +12,11 @@ If you would like to support my open source work, or any of my contributions, co
 
 ## 🎞️ Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [How To Create And Use Github Packages For Docker Containers](https://www.youtube.com/watch?v=qoMg86QA5P4)
 - [Measure PHP Code Quality With Static Analysis Using PHPStan](https://www.youtube.com/watch?v=OiS2xGVWEa0)
 - [True Cost of Programming Errors and Buggy Software](https://www.youtube.com/watch?v=UHoThUyfA70)
 - [Define Technical Debt and Contributing Factors for Software Errors](https://www.youtube.com/watch?v=ZJ5a4mxBbWw)
 - [Getting Started using Laravel Sail for Docker on WSL 2](https://www.youtube.com/watch?v=Zxi157MpoRE)
-- [Developing on Windows with WSL2 (Subsystem for Linux) and PHP](https://www.youtube.com/watch?v=_H1iKXksjF0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ## 📰 Latest Blog Posts
