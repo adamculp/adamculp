@@ -12,7 +12,7 @@ If you would like to support my open source work, or any of my contributions, co
 
 ## 🎞️ Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Create And Use Github Package Registry For Docker Containers](https://www.youtube.com/watch?v=qoMg86QA5P4)
+- [How To Create And Use Github Packages For Docker Containers](https://www.youtube.com/watch?v=qoMg86QA5P4)
 - [Measure PHP Code Quality With Static Analysis Using PHPStan](https://www.youtube.com/watch?v=OiS2xGVWEa0)
 - [Shocking True Cost of Programming Errors and Buggy Software](https://www.youtube.com/watch?v=UHoThUyfA70)
 - [Define Technical Debt and Contributing Factors for Software Errors](https://www.youtube.com/watch?v=ZJ5a4mxBbWw)
