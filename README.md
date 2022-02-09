@@ -12,7 +12,7 @@ If you would like to support my open source work, or any of my contributions, co
 
 ## 🎞️ Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Using Pixel 6 Phone As A Webcam Versus Logtech Brio](https://www.youtube.com/watch?v=x2BJlSa50i8)
+- [Pixel 6 Phone Camera Versus Logitech Brio Webcam](https://www.youtube.com/watch?v=x2BJlSa50i8)
 - [Beachcasts Programming Tutorial Videos Introduction 2022](https://www.youtube.com/watch?v=qSQe9STyRlk)
 - [How To Be A Better Software Engineer And Professional Programmer](https://www.youtube.com/watch?v=AnoLP33unUw)
 - [Laravel Query Builder Usage With Example Code](https://www.youtube.com/watch?v=H4p05Bz4nfg)
