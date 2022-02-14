@@ -12,11 +12,11 @@ If you would like to support my open source work, or any of my contributions, co
 
 ## 🎞️ Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Vital Tips for Learning A New Codebase Quickly For More Productivity](https://www.youtube.com/watch?v=3A41JaqKj8Q)
 - [The Pixel 6 vs The Logitech Brio - Which one is better?](https://www.youtube.com/watch?v=x2BJlSa50i8)
 - [Beachcasts Programming Tutorial Videos Introduction 2022](https://www.youtube.com/watch?v=qSQe9STyRlk)
 - [How To Be A Better Software Engineer And Professional Programmer](https://www.youtube.com/watch?v=AnoLP33unUw)
 - [Laravel Query Builder Usage With Example Code](https://www.youtube.com/watch?v=H4p05Bz4nfg)
-- [How To Create And Use Github Packages For Docker Containers](https://www.youtube.com/watch?v=qoMg86QA5P4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ## 📰 Latest Blog Posts
