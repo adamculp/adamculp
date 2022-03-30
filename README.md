@@ -12,11 +12,11 @@ If you would like to support my open source work, or any of my contributions, co
 
 ## 🎞️ Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Replace A Temporary Variable With A Query Function Call](https://www.youtube.com/watch?v=BV4yjt33pJ0)
 - [Refactoring Code With Move Method](https://www.youtube.com/watch?v=KCVHVuWkihk)
 - [Making Variable Names More Meaningful With Refactoring](https://www.youtube.com/watch?v=_GbB73VPRfY)
 - [Refactoring Code With Extract Method Is Clean Code](https://www.youtube.com/watch?v=mtBrzU13Yqc)
 - [Vital Tips for Learning A New Codebase Quickly For Faster Productivity](https://www.youtube.com/watch?v=3A41JaqKj8Q)
-- [Beachcasts Programming Tutorial Videos Introduction 2022](https://www.youtube.com/watch?v=qSQe9STyRlk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ## 📰 Latest Blog Posts
