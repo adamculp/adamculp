@@ -12,7 +12,7 @@ If you would like to support my open source work, or any of my contributions, co
 
 ## 🎞️ Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Replace A Temporary Variable With A Query Function Call](https://www.youtube.com/watch?v=BV4yjt33pJ0)
+- [Replace A Temporary Variable With A Query Function Call 006-009](https://www.youtube.com/watch?v=BV4yjt33pJ0)
 - [Refactoring Code With Move Method 004-005](https://www.youtube.com/watch?v=KCVHVuWkihk)
 - [Making Variable Names More Meaningful With Refactoring 002-003](https://www.youtube.com/watch?v=_GbB73VPRfY)
 - [Refactoring Code With Extract Method Is Clean Code 001-002](https://www.youtube.com/watch?v=mtBrzU13Yqc)
