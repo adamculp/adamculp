@@ -12,10 +12,10 @@ If you would like to support my open source work, or any of my contributions, co
 
 ## 🎞️ Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Replace A Temporary Variable With A Query Function Call 006-009](https://www.youtube.com/watch?v=BV4yjt33pJ0)
-- [Refactoring Code With Move Method 004-005](https://www.youtube.com/watch?v=KCVHVuWkihk)
-- [Making Variable Names More Meaningful With Refactoring 002-003](https://www.youtube.com/watch?v=_GbB73VPRfY)
-- [Refactoring Code With Extract Method Is Clean Code 001-002](https://www.youtube.com/watch?v=mtBrzU13Yqc)
+- [Replace A Temporary Variable With A Query Function Call with Code Example 006-009](https://www.youtube.com/watch?v=BV4yjt33pJ0)
+- [Refactoring Code With Move Method - Live Code Example 004-005](https://www.youtube.com/watch?v=KCVHVuWkihk)
+- [Making Variable Names More Meaningful Code Example Refactor 002-003](https://www.youtube.com/watch?v=_GbB73VPRfY)
+- [Refactoring Code With Extract Method Live Code Example 001-002](https://www.youtube.com/watch?v=mtBrzU13Yqc)
 - [Vital Tips for Learning A New Codebase Quickly For Faster Productivity](https://www.youtube.com/watch?v=3A41JaqKj8Q)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
