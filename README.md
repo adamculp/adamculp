@@ -19,13 +19,13 @@ If you would like to support my open source work, or any of my contributions, co
 - [Vital Tips for Learning A New Codebase Quickly For Faster Productivity](https://www.youtube.com/watch?v=3A41JaqKj8Q)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
-## 📰 Latest Blog Posts
+<!-- ## 📰 Latest Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
-- [Sharing the Beachcasts office and studio set up](https://geekyboy.com/archives/1486)
+<!-- - [Sharing the Beachcasts office and studio set up](https://geekyboy.com/archives/1486)
 - [10 reasons to become a consultant or have a consulting business](https://geekyboy.com/archives/1454)
 - [Zend Framework becomes Laminas project](https://geekyboy.com/archives/1440)
 - [10 bad things about consulting, and why it might not be for you](https://geekyboy.com/archives/1432)
-- [How to get lines of code in PHP with PHPLoc via CLI or using Docker](https://geekyboy.com/archives/1427)
+- [How to get lines of code in PHP with PHPLoc via CLI or using Docker](https://geekyboy.com/archives/1427) -->
 <!-- BLOG-POST-LIST:END -->
 
 
